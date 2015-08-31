@@ -43,7 +43,7 @@
 
 # Assignments & Projects #
 
-- There will be 1-2 assignments, and about 4 iterations of projects.
+- There will be 1 assignments, and 4 iterations of projects.
 
 ## Honor Code ##
 
