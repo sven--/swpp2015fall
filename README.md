@@ -50,7 +50,7 @@
 - Basically, due will be the Sunday 23:59. I will specify due date of each assignments and iterations on its instructions.
 - You can still submit until the next to the next Sunday 23:59, but you will get only 70% of the score.
 - For assignments, TBA.
-- For project iterations, we will use [Github](#Github).
+- For project iterations, we will use Github.
 
 ## Github ##
 
