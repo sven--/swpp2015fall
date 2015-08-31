@@ -1,8 +1,8 @@
 # SNU 4190.310, 2015 Spring #
 
 - Read all instructions carefully.
-- Instructor: Prof. [Gil Hur](http://sf.snu.ac.kr/gil.hur)
-- TA: [송용주][Young Ju Song](http://sf.snu.ac.kr/youngju.song)
+- Instructor: Prof. [허충길](http://sf.snu.ac.kr/gil.hur)
+- TA: [송용주](http://sf.snu.ac.kr/youngju.song)
     + Email address: [swpp2015fall@sf.snu.ac.kr](mailto:pl2015@sf.snu.ac.kr).
         * Send emails for personal matters only. Use the issue tracker.
         * DO NOT send emails to young...@sf.snu.ac.kr.
