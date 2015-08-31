@@ -7,14 +7,16 @@
         * Send emails for personal matters only. Use the issue tracker.
         * DO NOT send emails to young...@sf.snu.ac.kr.
         * In the case you send TA an email, specify your name and your student ID.
-    + Office Hour: At bldg 301 rm 554-1. Please email me to make an appointment.
+
+## Times ##
+- Lecture: Mon 10:30-12:00
+- TA Session: Wed 10:30-12:00
+- Office Hour: Mon, Wed 15:00-16:00 @ bldg 301 rm 554-1. If not eligible, please email me to make an appointment.
 
 ## Announcements ##
-
-- Basically, there will be professor's lecture on Monday, TA session on Wednesday.
-    + There will be lecture on 09/02/Wed.
-    + There will be lecture on 09/30/Wed.
-    + There will be TA session on 10/05/Mon.
+- There will be lecture on 09/02/Wed.
+- There will be lecture on 09/30/Wed.
+- There will be TA session on 10/05/Mon.
 
 ## Schedule ##
 
@@ -62,6 +64,7 @@ This is a step-by-step instruction.
 - Then I will automatically crawl your repositories at deadline.
 
 ### References ###
+- [Previous Course Page](https://sites.google.com/site/snuswppspr2015/)
 
 - If you don't know about Git, start reading articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.
 
