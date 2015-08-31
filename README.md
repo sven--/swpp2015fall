@@ -12,9 +12,9 @@
 ## Announcements ##
 
 - Basically, there will be professor's lecture on Monday, TA session on Wednesday.
-  + There will be lecture on 09/02/Wed.
-		+ There will be lecture on 09/30/Wed.
-		+ There will be TA session on 10/05/Mon.
+  		+ There will be lecture on 09/02/Wed.
+		  + There will be lecture on 09/30/Wed.
+		  + There will be TA session on 10/05/Mon.
 
 ## Schedule ##
 
