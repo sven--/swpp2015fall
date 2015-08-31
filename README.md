@@ -30,8 +30,6 @@
 | 2015/09/02 	| Read articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.	|       	|
 | 2015/09/02 	| Register at [GitHub](https://github.com), and give me your information [here](https://goo.gl/Sx0CtL).	|       	|
 
-## Grading ##
-
 ## Questions ##
 
 - In class: if you speak Korean, ask in Korean. Otherwise, ask in English.
