@@ -23,7 +23,6 @@
 | Due        	| Description 	 	 	 	 	 	 	 	 	 	 	 	 	 	| Notes 	|
 |------------	|---------------------------------------------------------------	|-------	|
 | 2015/09/20 23:59 	| [Assignment 01](assignments/01.md)	|       	|
-| 2015/09/07 	| Be ready to do homework and submit it.	|       	|
 | 2015/09/02 	| Read articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.	|       	|
 | 2015/09/02 	| Register at [GitHub](https://github.com), and give me your information [here](https://goo.gl/Sx0CtL).	|       	|
 
