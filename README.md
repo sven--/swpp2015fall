@@ -9,8 +9,10 @@
         * In the case you send TA an email, specify your name and your student ID.
 
 ## Times ##
-- Lecture: Mon 10:30-12:20 @ bldg 301 rm 203
-- TA Session: Wed 10:30-12:20 @ bldg 301 rm 203
+- Lecture: Mon 10:30-12:20
+  + All lectures @ bldg 301 rm 203
+- TA Session: Wed 10:30-12:20
+  + All TA Sessions @ bldg 302 rm 301-11
 - Office Hour: Mon, Wed 15:00-16:00 @ bldg 301 rm 554-1. If not eligible, please email me to make an appointment.
 
 ## Announcements ##
