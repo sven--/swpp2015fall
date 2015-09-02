@@ -2,7 +2,7 @@
 
 - Read all instructions carefully.
 - Instructor: Prof. [허충길](http://sf.snu.ac.kr/gil.hur)
-- TA: [송용주](http://sf.snu.ac.kr/youngju.song)
+- TA: [송용주](http://sf.snu.ac.kr/youngju.song), [김윤승](http://sf.snu.ac.kr/yoonseung.kim/), 박상훈
     + Email address: [swpp2015fall@sf.snu.ac.kr](mailto:pl2015@sf.snu.ac.kr).
         * Send emails for personal matters only. Use the issue tracker.
         * DO NOT send emails to young...@sf.snu.ac.kr.
