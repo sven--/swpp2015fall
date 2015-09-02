@@ -27,6 +27,7 @@
 | 2015/11/01 23:59 	| [Project Iteration 02](projects/02.md)	|       	|
 | 2015/10/11 23:59 	| [Project Iteration 01](projects/01.md)	|       	|
 | 2015/09/20 23:59 	| [Assignment 01](assignments/01.md)	|       	|
+| 2015/09/14  | Proposal Presentation	|       	|
 | 2015/09/02 	| Read articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.	|       	|
 | 2015/09/02 	| Register at [GitHub](https://github.com), and give me your information [here](https://goo.gl/Sx0CtL).	|       	|
 
