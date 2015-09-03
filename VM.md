@@ -6,4 +6,5 @@
 
 ## How To ##
 - If you are using Mac or Linux, open terminal and type "ssh *id*@swpp01.snucse.org" with your id, then type password.
+  + I personally use "ssh -Y" to allow X-forwarding of Emacs.
 - If you are using Windows, download Putty and use it.
