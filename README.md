@@ -31,7 +31,7 @@
 | 2015/09/25 23:59 	| [Assignment 01](assignments/01.md)	|       	|
 | 2015/09/21  | [Proposal](Proposal.md) Presentation	|       	|
 | 2015/09/16 23:59  | [Proposal](Proposal.md) PDF Submission	|       	|
-| 2015/09/09 	| Learn Git/Github & Rails	|       	|
+| 2015/09/09 	| Learn [Git](Git.md)/Github & Rails	|       	|
 | 2015/09/02 	| Learn Ruby [here](https://www.codecademy.com/en/tracks/ruby).	|       	|
 | 2015/09/02 	| Read articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.	|       	|
 | 2015/09/02 	| Register at [GitHub](https://github.com), and give me your information [here](https://goo.gl/Sx0CtL).	|       	|
