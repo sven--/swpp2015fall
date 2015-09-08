@@ -28,7 +28,7 @@
 | 2015/11/22 23:59 	| [Project Iteration 03](projects/03.md)	|       	|
 | 2015/11/01 23:59 	| [Project Iteration 02](projects/02.md)	|       	|
 | 2015/10/11 23:59 	| [Project Iteration 01](projects/01.md)	|       	|
-| 2015/09/20 23:59 	| [Assignment 01](assignments/01.md)	|       	|
+| 2015/09/25 23:59 	| [Assignment 01](assignments/01.md)	|       	|
 | 2015/09/21  | Proposal Presentation	|       	|
 | 2015/09/16 23:59  | Proposal PDF Submission	|       	|
 | 2015/09/09 	| Learn Git/Github & Rails	|       	|
