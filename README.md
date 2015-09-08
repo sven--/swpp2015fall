@@ -29,8 +29,8 @@
 | 2015/11/01 23:59 	| [Project Iteration 02](projects/02.md)	|       	|
 | 2015/10/11 23:59 	| [Project Iteration 01](projects/01.md)	|       	|
 | 2015/09/25 23:59 	| [Assignment 01](assignments/01.md)	|       	|
-| 2015/09/21  | Proposal Presentation	|       	|
-| 2015/09/16 23:59  | Proposal PDF Submission	|       	|
+| 2015/09/21  | [Proposal](Proposal.md) Presentation	|       	|
+| 2015/09/16 23:59  | [Proposal](Proposal.md) PDF Submission	|       	|
 | 2015/09/09 	| Learn Git/Github & Rails	|       	|
 | 2015/09/02 	| Learn Ruby [here](https://www.codecademy.com/en/tracks/ruby).	|       	|
 | 2015/09/02 	| Read articles on [GitHub](https://help.github.com/). Especially, read Bootcamp, Setup, Using Git, User Accounts, and SSH sections.	|       	|
