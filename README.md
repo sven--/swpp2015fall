@@ -17,6 +17,7 @@
 
 ## Announcements ##
 - There will be lecture on 09/02/Wed.
+- There will be TA session on 09/14/Mon.
 - There will be lecture on 09/30/Wed.
 - There will be TA session on 10/05/Mon.
 
