@@ -103,6 +103,33 @@ git diff [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋
 git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 ~~~
 
+## Github, Pull, Push ##
+- 새로운 리포지토리 생성
+- 이름이 디렉토리 이름과 같을 필요는 없음 "myGithubRepository"
+- "…or push an existing repository from the command line"를 따라하기
+- README.md 클릭
+- newline이 이상하게 보인다.. 수정하자!
+- 간단하게 엔터를 하나 더 넣어주고 웹에서 바로 커밋
+~~~
+git branch -a
+echo "\n\nRandom Text" >> README.md 
+git add . 
+git commit
+git push origin
+git pull origin (pull = fetch && merge)
+git push origin
+~~~
+- 여기서는 머지할 때 충돌이 일어나지 않았다!
+
+## .gitignore ##
+~~~
+git clone https://github.com/github/gitignore
+echo "*.gitignore" > .gitignore
+git rm -r --cached .
+git add .
+git status
+~~~
+
 ## 이런 것들도 가능 ##
 - 커밋에 태그붙이기
 - 특정 유저가 한 커밋 로그 보기
