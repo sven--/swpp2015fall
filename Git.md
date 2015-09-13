@@ -148,6 +148,8 @@ git status
 - 굉장히 많이 쓰이는 도구, 자료도 많다
 - 에디터의 플러그인도 잘 되있다 (vim-fugitive / emacs-magit 등)
 - 이런게 있으면 좋겠다 싶으면 구글링
+- 깃허브의 많은 오픈소스 프로젝트들을 보고 어떤 식으로 돌아가는지 구경
+  - https://github.com/rust-lang/rust/pulls
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
