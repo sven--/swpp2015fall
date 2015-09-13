@@ -3,6 +3,7 @@
 - 버전 관리 도구
 - Linus Torvalds가 만듦
 - 거부할 수 없는 [대세](https://www.google.com/trends/explore#q=%2Fm%2F012ct9%2C%20%2Fm%2F05vqwg%2C%20%2Fm%2F08441_&cmpt=q&tz=Etc%2FGMT-9)
+- [세가지 상태](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#The-Three-States)
 
 ## Commit ##
 ~~~
