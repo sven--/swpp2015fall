@@ -159,7 +159,7 @@ git status
 - 이런게 있으면 좋겠다 싶으면 구글링
 - 깃허브의 많은 오픈소스 프로젝트들을 보고 어떤 식으로 돌아가는지 구경
   - 브랜치 이름, 이슈 관리, 커밋/머지 단위 등의 컨벤션 [rust](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md), [scala](https://github.com/scala/scala/blob/2.11.x/CONTRIBUTING.md)
-  - jenkins 등 [자동화 테스팅 도구](https://github.com/rust-lang/rust/pulls) (이후 다룰 것)
+  - travis, jenkins 등 [자동화 테스팅 도구](https://github.com/rust-lang/rust/pulls)와의 연동 (이후 수업에서 다룸)
   
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
