@@ -71,7 +71,7 @@ cat ~/.gitconfig (gitconfig는 홈 디렉토리에서 설정도 된다, 우선�
 echo "[core]\n\teditor = vimdiff" >> ~/.gitconfig
 echo "[alias]\n\tlg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit" >> ~/.gitconfig
 cat ~/.gitconfig
-git commit
+git commit밋
 git status
 rm README.md.orig (git add로 추가하지 않으면 git이 추적하지 않고 커밋되지도 않는다)
 git lg
@@ -93,8 +93,9 @@ git diff --stat [고유 해시값]
 - http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
 
 ## 이런 것들도 가능 ##
-- commit에 tag붙이기
+- 커밋에 태그붙이기
 - 특정 유저가 한 커밋 로그 보기
+- 브랜치 전체를 가져오지 않고 특정 커밋만 가져오기
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
