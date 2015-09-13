@@ -143,6 +143,7 @@ git status
 - pull/push 등 사용할 때 아이디 비밀번호 없이 https://help.github.com/articles/generating-ssh-keys/
 - github fork / pull request
   - 토발즈의 언급 https://github.com/torvalds/linux/pull/17#issuecomment-5654674
+- [git-up](https://github.com/aanand/git-up)
 
 ## 마치며 ##
 - 굉장히 많이 쓰이는 도구, 자료도 많다
@@ -150,7 +151,6 @@ git status
 - 이런게 있으면 좋겠다 싶으면 구글링
 - 깃허브의 많은 오픈소스 프로젝트들을 보고 어떤 식으로 돌아가는지 구경
   - https://github.com/rust-lang/rust/pulls
-- [git-up](https://github.com/aanand/git-up)
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
