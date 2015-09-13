@@ -91,6 +91,9 @@ git diff ~~~ README.md (파일 하나)
 ~~~
 - http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
 
+## 이런 것들도 가능 ##
+- commit에 tag붙이기
+- 특정 유저가 한 커밋 로그 보기
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
