@@ -139,6 +139,10 @@ git status
 - git stash
 - pull/push 등 사용할 때 아이디 비밀번호 없이 https://help.github.com/articles/generating-ssh-keys/
 
+## 마치며 ##
+- 굉장히 많이 쓰이는 도구, 자료도 많다
+- 이런게 있으면 좋겠다 싶으면 구글링
+
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
 - https://try.github.io/
