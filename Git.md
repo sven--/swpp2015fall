@@ -104,6 +104,9 @@ git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋
 ~~~
 
 ## Github, Pull, Push ##
+- Github : git 호스팅 해주는 서비스
+  - gitlab
+  - 그냥 자기 서버에 올려놔도 됨
 - 새로운 리포지토리 생성
 - 이름이 디렉토리 이름과 같을 필요는 없음 "myGithubRepository"
 - "…or push an existing repository from the command line"를 따라하기
