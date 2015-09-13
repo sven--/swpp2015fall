@@ -88,6 +88,7 @@ git log
 git lg
 git diff [고유 해시값]
 git diff ~~~ README.md (파일 하나)
+git diff --stat [고유 해시값]
 ~~~
 - http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
 
