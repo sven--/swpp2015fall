@@ -120,6 +120,9 @@ git pull origin (pull = fetch && merge)
 git push origin
 ~~~
 - 여기서는 머지할 때 충돌이 일어나지 않았다!
+~~~
+git blame README.md
+~~~
 
 ## .gitignore ##
 ~~~
@@ -141,6 +144,7 @@ git status
 
 ## 마치며 ##
 - 굉장히 많이 쓰이는 도구, 자료도 많다
+- 에디터의 플러그인도 잘 되있다 (vim-fugitive / emacs-magit 등)
 - 이런게 있으면 좋겠다 싶으면 구글링
 
 ## Useful links ##
