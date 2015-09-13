@@ -96,6 +96,7 @@ git diff --stat [고유 해시값]
 - 커밋에 태그붙이기
 - 특정 유저가 한 커밋 로그 보기
 - 브랜치 전체를 가져오지 않고 특정 커밋만 가져오기
+- 한 파일의 일부만 커밋하기 (hunk 단위)
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
