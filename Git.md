@@ -86,11 +86,15 @@ git diff HEAD~1
 git diff HEAD~2
 git log 
 git lg
-git diff [고유 해시값]
 git diff ~~~ README.md (파일 하나)
-git diff --stat [고유 해시값]
+git diff --stat [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 ~~~
 - http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
+
+## Show ##
+~~~
+git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
+~~~
 
 ## 이런 것들도 가능 ##
 - 커밋에 태그붙이기
