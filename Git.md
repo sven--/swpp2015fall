@@ -78,6 +78,19 @@ git lg
 ~~~
 - 충돌이 없는 경우 알아서 똑똑하게 해준다.
 
+## Diff ##
+~~~
+git diff HEAD\^1 (zsh에서는 \ 넣어줘야하는데 bash면 그럴 필요 없음)
+git diff HEAD\^2 
+git diff HEAD~1
+git diff HEAD~2
+git log 
+git lg
+git diff [고유 해시값]
+git diff ~~~ README.md (파일 하나)
+~~~
+- http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
+
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
