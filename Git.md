@@ -98,12 +98,14 @@ git diff --stat [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 ~~~
 
-## Range ##
+## Revision Range ##
 ~~~
 git log [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 git diff [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 ~~~
+- [..과 ...의 차이](http://stackoverflow.com/questions/462974/what-are-the-differences-between-double-dot-and-triple-dot-in-git-com)
+- [man gitrevisions](https://www.kernel.org/pub/software/scm/git/docs/gitrevisions.html)의 SPECIFYING RANGES
 
 ## Github ##
 - Github : git 호스팅 해주는 서비스
