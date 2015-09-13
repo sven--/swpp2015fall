@@ -160,3 +160,4 @@ git status
 - https://github.com/git-game/git-game
 - http://pcottle.github.io/learnGitBranching/
 - https://help.github.com/index.html
+- https://help.github.com/articles/good-resources-for-learning-git-and-github/
