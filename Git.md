@@ -157,6 +157,7 @@ git status
 - 굉장히 많이 쓰이는 도구, 자료도 많다
 - 에디터의 플러그인도 잘 되있다 (vim-fugitive / emacs-magit 등)
 - 이런게 있으면 좋겠다 싶으면 구글링
+- 리눅스 매뉴얼도 편함 (man git-log 등)
 - 깃허브의 많은 오픈소스 프로젝트들을 보고 어떤 식으로 돌아가는지 구경
   - 브랜치 이름, 이슈 관리, 커밋/머지 단위 등의 컨벤션 [rust](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md), [scala](https://github.com/scala/scala/blob/2.11.x/CONTRIBUTING.md)
   - travis, jenkins 등 자동화 테스팅 도구와의 [연동](https://github.com/rust-lang/rust/pulls) (이후 수업에서 다룸)
