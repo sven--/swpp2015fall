@@ -150,7 +150,7 @@ git status
 - 이런게 있으면 좋겠다 싶으면 구글링
 - 깃허브의 많은 오픈소스 프로젝트들을 보고 어떤 식으로 돌아가는지 구경
   - https://github.com/rust-lang/rust/pulls
-
+- [git-up](https://github.com/aanand/git-up)
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
 - https://try.github.io/
