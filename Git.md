@@ -91,7 +91,7 @@ git lg
 git diff ~~~ README.md (파일 하나)
 git diff --stat [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]
 ~~~
-- http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git
+- [~, ^ 의미](http://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git)
 
 ## Show ##
 ~~~
@@ -148,9 +148,9 @@ git status
 - 한 파일의 일부만 커밋하기 (hunk 단위)
 - git rebase
 - git stash
-- pull/push 등 사용할 때 아이디 비밀번호 없이 https://help.github.com/articles/generating-ssh-keys/
+- github 사용할 때 [ssh 키 사용](https://help.github.com/articles/generating-ssh-keys/)
 - github fork / pull request
-  - 토발즈의 언급 https://github.com/torvalds/linux/pull/17#issuecomment-5654674
+  - [토발즈의 언급](https://github.com/torvalds/linux/pull/17#issuecomment-5654674)
 - [git-up](https://github.com/aanand/git-up)
 
 ## 마치며 ##
