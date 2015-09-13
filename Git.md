@@ -24,9 +24,8 @@ git log
 git branch myBranch
 git checkout myBranch 
 ~~~
-(한번에 -> git checkout -b)
-
-(지울 때 -> git branch -d)
+- 한번에 -> git checkout -b
+- 지울 때 -> git branch -d
 
 ## Reset ##
 ~~~
@@ -56,7 +55,7 @@ git status
 ## Conflict Resolution ##
 - emacs -> ediff
 - vim -> vimdiff
-- 아니면 그냥 README.md를 수정해도 됨
+- 아니면 그냥 충돌난 파일을 직접 수정해도 됨
 
 ~~~
 cat .git/config
