@@ -25,6 +25,7 @@ git branch myBranch
 git checkout myBranch 
 ~~~
 (한번에 -> git checkout -b)
+
 (지울 때 -> git branch -d)
 
 ## Useful links ##
