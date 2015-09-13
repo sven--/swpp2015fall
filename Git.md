@@ -135,10 +135,15 @@ git status
 - 특정 유저가 한 커밋 로그 보기
 - 브랜치 전체를 가져오지 않고 특정 커밋만 가져오기
 - 한 파일의 일부만 커밋하기 (hunk 단위)
+- git rebase
+- git stash
+- pull/push 등 사용할 때 아이디 비밀번호 없이 https://help.github.com/articles/generating-ssh-keys/
 
 ## Useful links ##
 - http://rogerdudler.github.io/git-guide/
 - https://try.github.io/
+- https://git-scm.com/book/en/v2
 - http://git-scm.com/docs/gittutorial
 - https://github.com/git-game/git-game
 - http://pcottle.github.io/learnGitBranching/
+- https://help.github.com/index.html
