@@ -27,6 +27,7 @@ git checkout myBranch
 ~~~
 - 한번에 -> git checkout -b
 - 지울 때 -> git branch -d
+- master라는 이름이 엄청 특별한 것은 아님
 
 ## Reset ##
 ~~~
@@ -110,7 +111,7 @@ git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋
   - 그냥 자기 서버에 올려놔도 됨
 - 새로운 리포지토리 생성
 - 이름이 디렉토리 이름과 같을 필요는 없음 "myGithubRepository"
-- "…or push an existing repository from the command line"를 따라하기
+- "…or push an existing repository from the command line"를 따라하기 (여러 remote 등록 가능)
 - README.md 클릭
 - newline이 이상하게 보인다.. 수정하자!
 - 간단하게 엔터를 하나 더 넣어주고 웹에서 바로 커밋
