@@ -109,7 +109,7 @@ git show [커밋 고유해시값, HEAD 어쩌구, 브랜치 이름 등]..[커밋
 - Github : git 호스팅 해주는 서비스
   - gitlab
   - 그냥 자기 서버에 올려놔도 됨
-- issue, pull request, wiki, fork
+- issue, pull request, wiki, fork, markdown
 
 ## push, pull ##
 - 새로운 리포지토리 생성
