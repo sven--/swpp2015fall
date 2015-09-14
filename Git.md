@@ -159,6 +159,7 @@ git status
 - [git-up](https://github.com/aanand/git-up)
 - sourcetree
 - git reflog
+- zsh등에서 브랜치 이름 보여주는 것
 
 ## 마치며 ##
 - 굉장히 많이 쓰이는 도구, 자료도 많다
