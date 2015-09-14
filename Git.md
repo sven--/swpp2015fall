@@ -130,6 +130,8 @@ git pull origin (pull = fetch && merge)
 git push origin
 ~~~
 - 여기서는 머지할 때 충돌이 일어나지 않았다!
+
+## Blame ##
 ~~~
 git blame README.md
 ~~~
