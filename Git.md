@@ -151,11 +151,13 @@ git status
 - 한 파일의 일부만 커밋하기 (hunk 단위)
 - git rebase
   - [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+  - git pull --rebase
 - git stash
 - github 사용할 때 [ssh 키 사용](https://help.github.com/articles/generating-ssh-keys/)
 - github fork / pull request
   - [토발즈의 언급](https://github.com/torvalds/linux/pull/17#issuecomment-5654674)
 - [git-up](https://github.com/aanand/git-up)
+- sourcetree
 
 ## 마치며 ##
 - 굉장히 많이 쓰이는 도구, 자료도 많다
