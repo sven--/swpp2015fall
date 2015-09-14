@@ -150,6 +150,7 @@ git status
 - 브랜치 전체를 가져오지 않고 특정 커밋만 가져오기 (cherry-pick)
 - 한 파일의 일부만 커밋하기 (hunk 단위)
 - git rebase
+  - [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - git stash
 - github 사용할 때 [ssh 키 사용](https://help.github.com/articles/generating-ssh-keys/)
 - github fork / pull request
