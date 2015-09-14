@@ -158,6 +158,7 @@ git status
   - [토발즈의 언급](https://github.com/torvalds/linux/pull/17#issuecomment-5654674)
 - [git-up](https://github.com/aanand/git-up)
 - sourcetree
+- git reflog
 
 ## 마치며 ##
 - 굉장히 많이 쓰이는 도구, 자료도 많다
